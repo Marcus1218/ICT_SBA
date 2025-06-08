@@ -1,3 +1,4 @@
+-- https://github.com/Marcus1218/ICT_SBA
 -- 創建小食部管理數據庫
 
 DROP DATABASE IF EXISTS canteen_management;
