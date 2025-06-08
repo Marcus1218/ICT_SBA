@@ -126,3 +126,5 @@ INSERT INTO RestockOrder (ProductID, OrderQuantity, OrderDate, ArrivalDate, Supp
 (8, 60, '2025-05-15', '2025-05-19', 4, 'Delivered'),
 (9, 40, '2025-05-16', '2025-05-20', 4, 'Delivered'),
 (10, 50, '2025-05-29', NULL, 1, 'Shipped');
+
+
