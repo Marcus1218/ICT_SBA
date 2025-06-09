@@ -140,6 +140,5 @@ Sample_Generater/                    # 批量數據生成腳本
 
 ---
 
-## 參考來源
-- [Joeccp/SBA](https://github.com/Joeccp/SBA)
-- [Marcus1218/ICT_SBA](https://github.com/Marcus1218/ICT_SBA)
+
+
