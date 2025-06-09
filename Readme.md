@@ -114,6 +114,18 @@ cd Sample_Generater
 python generate_all_data.py
 ```
 
+> **注意：請務必根據外鍵依賴順序依次導入由各生成腳本產生的 SQL 文件，否則會出現外鍵約束錯誤。建議導入順序如下：**
+> 1. octopus_cards_data.sql
+> 2. suppliers_data.sql
+> 3. staff_data.sql
+> 4. users_data.sql
+> 5. products_data.sql
+> 6. promotions_data.sql
+> 7. promotion_products_data.sql
+> 8. transactions_data.sql
+> 9. transaction_details_data.sql
+> 10. restock_orders_data.sql
+
 ---
 
 ## 目錄結構
